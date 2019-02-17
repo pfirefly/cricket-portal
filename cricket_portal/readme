@@ -8,3 +8,5 @@ Admin Credential:
 
 username: admin
 password: qawsedrf
+
+Install despondency py running pip install -r requirenemt.txt
